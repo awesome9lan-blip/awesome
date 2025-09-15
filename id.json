@@ -11,8 +11,8 @@
       "expiration_date": "2025-09-30"
     },
     {
-      "username": "",
-      "password": "관리자",
+      "username": "관리자",
+      "password": "/",
       "expiration_date": "2025-09-30"
     },
     {
