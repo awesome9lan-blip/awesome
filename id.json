@@ -2,43 +2,53 @@
   "users": [
     {
       "username": "admin",
-      "password": "aplan"
+      "password": "aplan",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user2",
-      "password": "aplan01"
+      "password": "aplan01",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user3",
-      "password": "aplan02"
+      "password": "aplan02",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user4",
-      "password": "aplan03"
+      "password": "aplan03",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user5",
-      "password": "aplan04"
+      "password": "aplan04",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user6",
-      "password": "aplan05"
+      "password": "aplan05",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user7",
-      "password": "aplan06"
+      "password": "aplan06",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user8",
-      "password": "aplan07"
+      "password": "aplan07",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user9",
-      "password": "aplan08"
+      "password": "aplan08",
+      "expiration_date": "2025-09-30"
     },
     {
       "username": "user10",
-      "password": "aplan09"
+      "password": "aplan09",
+      "expiration_date": "2025-09-30"
     }
   ]
 }
