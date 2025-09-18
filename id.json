@@ -3,52 +3,62 @@
     {
       "username": "7",
       "password": "",
-      "expiration_date": "2999-09-05"
+      "expiration_date": "2999-09-05",
+      "status": "available"
     },
     {
       "username": "다린",
       "password": "1234",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "관리자",
       "password": "",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "user4",
       "password": "aplan03",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "user5",
       "password": "aplan04",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "user6",
       "password": "aplan05",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "user7",
       "password": "aplan06",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "user8",
       "password": "aplan07",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "user9",
       "password": "aplan08",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     },
     {
       "username": "user10",
       "password": "aplan09",
-      "expiration_date": "2025-09-30"
+      "expiration_date": "2025-09-30",
+      "status": "available"
     }
   ]
 }
