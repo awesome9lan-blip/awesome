@@ -1,7 +1,7 @@
 {
   "is_active": "true",
-  "window_x": 0,
-  "window_y": 0,
+  "window_x": 20000,
+  "window_y": 20000,
   "links": [
     "https://blog.naver.com/PostList.naver?blogId=royjh&categoryNo=0&from=postList",
     "https://blog.naver.com/PostList.naver?blogId=cafle1&categoryNo=0&from=postList",
